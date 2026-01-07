@@ -13,6 +13,14 @@ _Task Number: Task-01_
 
 The Caesar Cipher is one of the oldest and simplest encryption techniques used in cryptography. It is a substitution cipher where each letter in the original message is replaced by another letter after shifting it by a fixed number of positions in the alphabet.
 
+**Example**:
+
+ Message: HELLO
+ 
+ Shift: 3
+ 
+ Encrypted: KHOOR
+
 
 **📖 Description**
 
